@@ -9,8 +9,8 @@ body{
 
 .btn {
   position: absolute;
-  top: 93%;
-  left: 90%;
+  top: 640px;
+  left: 1300px;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #555;

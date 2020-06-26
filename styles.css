@@ -7,7 +7,7 @@ body{
     position: relative;
 }
 
-.container .btn {
+.btn {
   position: absolute;
   top: 50%;
   left: 50%;
